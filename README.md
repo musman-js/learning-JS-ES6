@@ -1,1 +1,6 @@
-
+- [ ] let and const
+- [ ] Template String
+- [ ] Arrow Function
+- [ ] Rest Operator
+- [ ] Spread Operator
+- [ ] Object Literal
