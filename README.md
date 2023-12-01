@@ -1,6 +1,6 @@
 - [x] let and const
 - [x] Template String
 - [x] Arrow Function
-- [ ] Rest Operator
+- [x] Rest Operator
 - [ ] Spread Operator
 - [ ] Object Literal
