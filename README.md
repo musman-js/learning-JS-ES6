@@ -2,5 +2,5 @@
 - [x] Template String
 - [x] Arrow Function
 - [x] Rest Operator
-- [ ] Spread Operator
+- [x] Spread Operator
 - [ ] Object Literal
