@@ -3,4 +3,9 @@
 - [x] Arrow Function
 - [x] Rest Operator
 - [x] Spread Operator
-- [ ] Object Literal
+- [x] Object Literal
+- [ ] Destructuring Array
+- [ ] Destructuring Array
+- [ ] OOP-Class & Objects
+- [ ] Class Inheritance
+- [ ] Modules
