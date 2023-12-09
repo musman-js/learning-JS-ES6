@@ -4,7 +4,7 @@
 - [x] Rest Operator
 - [x] Spread Operator
 - [x] Object Literal
-- [ ] Destructuring Array
+- [x] Destructuring Array
 - [ ] Destructuring Array
 - [ ] OOP-Class & Objects
 - [ ] Class Inheritance
