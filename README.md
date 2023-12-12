@@ -5,7 +5,7 @@
 - [x] Spread Operator
 - [x] Object Literal
 - [x] Destructuring Array
-- [ ] Destructuring Array
+- [ ] Destructuring Object
 - [ ] OOP-Class & Objects
 - [ ] Class Inheritance
 - [ ] Modules
