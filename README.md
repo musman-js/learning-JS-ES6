@@ -6,6 +6,6 @@
 - [x] Object Literal
 - [x] Destructuring Array
 - [x] Destructuring Object
-- [ ] OOP-Class & Objects
+- [x] Object Oriented Programming (OOP)
 - [ ] Class Inheritance
 - [ ] Modules
