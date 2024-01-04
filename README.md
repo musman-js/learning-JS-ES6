@@ -7,5 +7,5 @@
 - [x] Destructuring Array
 - [x] Destructuring Object
 - [x] Object Oriented Programming (OOP)
-- [ ] Class Inheritance
+- [x] Class Inheritance
 - [ ] Modules
