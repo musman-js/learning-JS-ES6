@@ -1,16 +1,5 @@
-import {name} from './app.js'
+import {age , name} from './app.js'
 
-let jname = "Muhammad Usman";
-let age = 16
+age('Muhammad Usman' , 16)
 
-
-let userValue = () =>{
-
-}
-
-class username{
-    constructor(){
-    }
-}
-
-export{jname , age , username}
+let userinfo = new name('Laiba Sahar')
