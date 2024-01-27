@@ -8,4 +8,8 @@
 - [x] Destructuring Object
 - [x] Object Oriented Programming (OOP)
 - [x] Class Inheritance
-- [ ] Modules
+- [x] Modules
+- [x] Promises
+- [ ] Ajax
+- [ ] Fetch()
+- [ ] Async & Await
