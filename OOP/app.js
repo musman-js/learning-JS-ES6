@@ -74,3 +74,23 @@
 // }
 
 // let info = new country('Usman' , 17 , 'Pakistan');
+
+
+
+// class information {
+//     constructor(){
+//         return info = {
+//             name:"Muhammad Usman",
+//             age:17,
+//             education:"Matric",
+//             address : {
+//                 area:"FB",
+//                 block:16,
+//                 houseNumber:"C-34 Uk Square"
+//             }
+//         }
+//     }
+// }
+
+// let info =  information ;
+// console.log(info);
