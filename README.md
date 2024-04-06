@@ -10,6 +10,6 @@
 - [x] Class Inheritance
 - [x] Modules
 - [x] Promises
-- [ ] Ajax
+- [x] Ajax
 - [ ] Fetch()
 - [ ] Async & Await
