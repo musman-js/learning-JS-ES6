@@ -11,5 +11,5 @@
 - [x] Modules
 - [x] Promises
 - [x] Ajax
-- [ ] Fetch()
+- [x] Fetch()
 - [ ] Async & Await
