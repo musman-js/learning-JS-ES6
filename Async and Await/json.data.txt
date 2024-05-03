@@ -1,0 +1,17 @@
+[
+  {
+    name:"Muhammad Usman",
+    age: 17,
+    field : "Sofware Engineer"
+  },
+   {
+    name:"Muhammad Ammar",
+    age: 17,
+    field : "Digital Marketing"
+  },
+   {
+    name:"Muhammad Ayaan",
+    age: 17,
+    field : "Faltu admi"
+  }
+]
