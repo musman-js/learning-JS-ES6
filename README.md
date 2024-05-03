@@ -12,4 +12,4 @@
 - [x] Promises
 - [x] Ajax
 - [x] Fetch()
-- [ ] Async & Await
+- [x] Async & Await
